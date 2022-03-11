@@ -1,0 +1,27 @@
+body{
+    background-color: #151D3B;
+}
+
+h1{
+    color: #6EBF8B;
+    font-family: 'Ultra', serif;
+    font-size: 7rem;
+    text-align: center;
+    text-shadow: 2px 2px white;
+    padding: 2% 3%;
+   
+}
+h2{
+    font-family: 'Nunito', sans-serif;
+    color: #6EBF8B;
+}
+.row{
+    margin: auto;
+    text-align: center;
+    width: 60%;
+}
+img{
+
+    height: auto;
+
+}
